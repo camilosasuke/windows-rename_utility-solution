@@ -1,0 +1,6 @@
+[submodule "archive"]
+	path = archive
+	url = ../../ca2/windows-archive
+[submodule "source"]
+	path = source
+	url = ../rename_utility-source
